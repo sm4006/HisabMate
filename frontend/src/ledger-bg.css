@@ -1,0 +1,14 @@
+.heritage-main {
+  background-color: #fff8ea !important;
+  background-image:
+    linear-gradient(to right, transparent 0, transparent 58px, rgba(159, 32, 38, .10) 59px, rgba(159, 32, 38, .10) 60px, transparent 61px),
+    repeating-linear-gradient(to bottom, transparent 0, transparent 43px, rgba(181, 138, 67, .13) 44px),
+    radial-gradient(circle at 88% 8%, #f3dfb733, transparent 22%) !important;
+  background-size: 100% 100%, 100% 44px, 100% 100% !important;
+}
+
+.heritage-card, .welcome, .quick-actions, .statement p, .report-grid article, .settings-list article, .reminder {
+  background-color: rgba(255, 253, 248, .94) !important;
+}
+
+.daily-card { background-color: rgba(247, 233, 204, .94) !important; }
